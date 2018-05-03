@@ -1,0 +1,10 @@
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\core\BankImpl.java
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\exception\DataAccessException.java
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\dao\ClientDao.java
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\dao\jdbc\JdbcClientDao.java
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\core\Account.java
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\dao\jdbc\JdbcAccountDao.java
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\core\Bank.java
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\core\Client.java
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\util\ConnectionFactory.java
+C:\Users\exomat\Desktop\bank\bankcore\src\main\java\dao\AccountDao.java

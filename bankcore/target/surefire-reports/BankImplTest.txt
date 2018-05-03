@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: BankImplTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.083 sec <<< FAILURE! - in BankImplTest
+createaccounttest1(BankImplTest)  Time elapsed: 0.009 sec  <<< FAILURE!
+java.lang.AssertionError
+	at BankImplTest.createaccounttest1(BankImplTest.java:17)
+
